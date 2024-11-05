@@ -1,7 +1,5 @@
 <h3 align="center">A passionate AI developer from Pakistan</h3>
 
-- 🌱 I’m currently learning **ASP.NET Core MVC**
-
 - 📫 How to reach me **shahasghar054@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
